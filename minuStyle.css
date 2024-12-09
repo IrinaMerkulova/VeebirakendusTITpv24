@@ -1,0 +1,36 @@
+body{
+    font-family: Georgia;/*fondi tüüp*/
+    color: purple; /*teksti värv*/
+}
+h1{
+    border: solid 1px purple; /*ääris*/
+    padding: 10%; /*vahe tekstist ääriseni*/
+    margin: 10px;
+    border-radius: 60px;
+    width: 60%;
+    background-color: lavenderblush;
+}
+h2{
+    border: dotted 3px purple; /*dashed, outline, double, solid, ääris*/
+    padding: 1%; /*vahe tekstist ääriseni*/
+    margin: 10px; /*vahe veebilehe piirist ääriseni*/
+    border-radius: 60px;
+    width: 60%; /*laius*/
+    background-color: lavenderblush; /*tausta värv*/
+}
+ul{
+    list-style-type: circle; /*markeri tüüp - square, */
+    padding:5px;
+    background-color: lavender;
+}
+ul li{
+    background-color: aqua;
+    margin:5px;
+}
+table, td{
+    width: 60%;
+    border: solid 1px purple;
+    border-collapse: collapse; /*ühine ääris*/
+    text-align: center; /*teksti joondamine keskele*/
+    background-color: lavenderblush;
+}
