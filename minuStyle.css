@@ -28,7 +28,7 @@ ul li{
     margin:5px;
 }
 table, td{
-    width: 60%;
+    width: 100%;
     border: solid 1px purple;
     border-collapse: collapse; /*ühine ääris*/
     text-align: center; /*teksti joondamine keskele*/
